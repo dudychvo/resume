@@ -73,6 +73,12 @@ body {
   margin-left: 15px;
 }
 
+.project {
+  display: flex;
+  justify-content: space-between;
+  max-width: 75%;
+}
+
 .project,
 .project-link {
   font-style: normal;
